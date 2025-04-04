@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../apex-lab-management"
+		},
+		{
+			"name": "Apex-Lab-Management",
+			"path": "../../../apex-lab-management/src/Apex-Lab-Management"
+		}
+	],
+	"settings": {}
+}
